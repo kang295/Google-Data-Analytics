@@ -1,4 +1,4 @@
-# [Google-DataAnalytics](https://www.coursera.org/professional-certificates/google-data-analytics)
+# [Google-DataAnalytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 * This repository is written for reference and self-documentation purpose
 
