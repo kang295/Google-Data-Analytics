@@ -1,7 +1,7 @@
 # Google Data Analytics: Capstone
 ## Case Study 2: How Can a Wellness Technology Company Play It smart?
 
-![Bellabeat](https://github.com/[kang295]/[Google-DataAnalytics-Capstone]/blob/image.jpg?raw=true)
+![Bellabeat](https://github.com/kang295/Google-DataAnalytics-Capstone/blob/main/Bellabeat.png)
 
 This analysis is an optional Capstone project from the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera. 
 
