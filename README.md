@@ -10,16 +10,16 @@ Bellabeat is a high-tech manufacturer of health-focused products for women. The 
 
 The co-founder and Chief Creative Officer, Urška Sršen is confident that an analysis of non-Bellebeat consumer data (ie. FitBit fitness tracker usage data) would reveal more opportunities for growth.
 
-### Business Task:
+### [Business Task]:
 Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing team.
 
-### Business Objectives:
+### [Business Objectives]:
 - What are the trends identified?
 - How could these trends apply to Bellabeat customers?
 - How could these trends help influence Bellabeat marketing strategy?
 
-### Tools:
+### [Tools]:
 Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
 
-### Data Set:
+### [Data Set]:
 The data set is publicly available on [Kaggle](https://www.kaggle.com/arashnic/fitbit).
