@@ -17,7 +17,7 @@ Analyze FitBit Fitness Tracker App data to gain insights into how consumers are 
 - How could these trends help influence Bellabeat marketing strategy?
 
 ### Tools:
-Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
+R for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
 
 ### Data Set:
 The data set is publicly available on [Kaggle](https://www.kaggle.com/arashnic/fitbit).
